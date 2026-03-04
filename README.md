@@ -14,16 +14,7 @@ Heart-Disease-ML
 
 ## Dataset Information
 The dataset contains several medical attributes used to predict heart disease.
-Common features include:
-/ age – Age of the patient
-/ sex – Gender (1 = male, 0 = female)
-/ cp – Chest pain type
-/ trestbps – Resting blood pressure
-/ chol – Serum cholesterol
-/ fbs – Fasting blood sugar
-/ thalach – Maximum heart rate achieved
-/ thal – Thalassemia
-/ target – Presence of heart disease (0 = No, 1 = Yes)
+target – Presence of heart disease (0 = No, 1 = Yes)
 
 ## Results
 Test Accuracy: ~85%

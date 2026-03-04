@@ -32,8 +32,10 @@ Key Takeaway: Logistic Regression performs well as a baseline model for predicti
 
 ## Requirements
 - Python 3.8+
-- pandas / numpy / matplotlib / seaborn / scikit-learn 
+- pandas / numpy / matplotlib / seaborn / scikit-learn
+  
 Install dependencies:
+
 ```bash
  pip install pandas numpy matplotlib seaborn scikit-learn
 ```

@@ -31,8 +31,9 @@ Confusion Matrix: Displayed in notebook
 Key Takeaway: Logistic Regression performs well as a baseline model for predicting heart disease and provides interpretable results.
 
 ## Requirements
-Python 3.8+
-### Required libraries:
-pandas / numpy / matplotlib / seaborn / scikit-learn 
-### Install dependencies:
-# pip install pandas numpy matplotlib seaborn scikit-learn
+- Python 3.8+
+- pandas / numpy / matplotlib / seaborn / scikit-learn 
+Install dependencies:
+```bash
+ pip install pandas numpy matplotlib seaborn scikit-learn
+```
